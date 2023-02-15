@@ -7,7 +7,7 @@ This is a command-line application that dynamically generates a professional REA
 
 ![image](https://user-images.githubusercontent.com/119143763/218934534-e277cc21-2f01-4d9b-a122-d70e90566683.png)
 
-Please see the video provided to see how to use this application: 
+Please see the video provided to see how to use this application: https://drive.google.com/file/d/1NV9sGSpKlhnGVKeZX3TMgGRTp_zQtL-r/view
     
 ## Table of Contents
     
@@ -28,7 +28,7 @@ Please see the video provided to see how to use this application:
 You must have Node.js installed on your local machine and install the inquirer version 8.2.4 package installed 
     
 ## Usage 
-Video Link:  
+Video Link: https://drive.google.com/file/d/1NV9sGSpKlhnGVKeZX3TMgGRTp_zQtL-r/view
     
 ## Contributing 
 Clone or Fork this repository and make it your own! 
